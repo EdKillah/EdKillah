@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-Software engineer student passionate about software development & data science.
+Software engineer passionate about software development & data science.
 
 <h2 align="left">GitHub Stats </h2>
 
